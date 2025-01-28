@@ -1,5 +1,10 @@
 HALLÓ! 
+<<<<<<< HEAD
 HOLA
 HALLÓ?
+=======
+HOLA!
+HALLÓ 
+>>>>>>> 57a6c8e77ad061ddd9f2d0c73f1ba15593446c08
 HOLA?
 
